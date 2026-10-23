@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dawaba;Ashraf;;Prof. Dr.;
+FN:Prof. Dr. Ashraf Dawaba
+ORG:European Academy for Islamic Finance and Economics (EAIFE)
+TITLE:President of EAIFE
+TEL;TYPE=CELL:+905459164540
+TEL;TYPE=CELL:+905524411718
+TEL;TYPE=WORK:+441381303026
+EMAIL;TYPE=WORK:info@eaife.org
+EMAIL;TYPE=INTERNET:eaifeac@gmail.com
+URL:https://www.eaife.org
+ADR;TYPE=WORK:;;Kayabaşı Mah. Kınalıada-Cad Dışkapıno:3/2, İçkapıno:9;Başakşehir;Istanbul;;Turkey
+ADR;TYPE=WORK:;;Flat 49 Parkfield Court, 38-40 Barlow Moor Road;Manchester;;M20 2GE;United Kingdom
+END:VCARD
